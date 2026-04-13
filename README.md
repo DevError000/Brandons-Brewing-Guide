@@ -1,9 +1,5 @@
 ##  _**Brandon's Brewing Guide**_
 
-### **WARNING: BUG CAUSES IT TO LOOK WRONG, I AM WORKING ON A FIX**
-### **PLEASE BEAR WITH ME**
-
-
 ## Features:
 - **_Brewing Stand UI Change_**
 > That's it sorry!
@@ -46,11 +42,6 @@ Enjoy the pack!
 <br> <br>
      You can review it honestly in a video or other forms of content. You do not have to lie, if you do not like it you don't have to say you do, no one is going to force you to lie and say it's a good pack, I want you to be honest. If it's good; say it's good, if it's bad; say it's bad.
 <br> <br>
-     If I gave you the okay, some of these do not apply to you (under some conditions), for example if you emailed me (see below for email), and asked me to change the Mod Pack Usage section of my description to make it easier for you to use it in a modpack, and I am more likely than not to tell you it is okay for you to be excluded, or maybe you wanted to "remix" my pack into something that fits your style  more than mine does, and share it with the world, I am more likely to give you permission than not.
-<br> <br>
 
-Email me for any questions: <br>
-deverror000@gmail.com
-
-This is not my main email, but I check it almost every day, although it may take longer than normal, depending on how many people ask me questions.
+And thank you to [tonceDev](https://github.com/tonceDev) for fixing the texture for the right brewing guide image.
 </details>
