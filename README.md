@@ -36,7 +36,7 @@ Enjoy the pack!
 </details>
 
 <details>
-<summary>Mod Pack Usage / Content Creation</summary>
+<summary>Other Info / Pack Usage</summary>
     You must give proper credit. You can either have a link to my Pack Page, or have an image clearly showcasing that your modpack uses my pack in it, for example it could showcase that is has my mod in it, in this case it would be an in game screenshot of you using this pack; along with a textbox in the corner of the image that says "Brandon's Brewing Guide". At least one of these is required for you to use my pack in your modpack. <br> <br>
     You can only use my pack in your modpack on Modrinth & CurseForge. This means that you can only publish your modpack on these two sites if it uses my pack. Also you can not re-publish it as a pack by itself, meaning you cannot download the pack and then republish it as a stand-alone pack, It must be in a modpack.
 <br> <br>
